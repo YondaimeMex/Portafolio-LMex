@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    margin: auto;
+    
+}
+
+header{
+    background: #f89;
+    text-align: center;
+    padding: 30px;
+    border-bottom: solid 3px #0af;
+    
+}
+p{
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    margin: 0px 50px;
+}
+#Foto-perfil{
+    width: 300px;
+    border-radius: 10px;
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 0;
+    font-family: "Lato", sans-serif;
+}
+a{
+    text-decoration: none;
+    margin: 0px 5px;
+    color: #58f;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+}
+h2{
+    
+    text-align: center;
+    margin: 20px;
+    font-size: 22px;
+    color: rgb(91, 67, 155);
+    font-family: "Roboto", sans-serif;
+}
+.frase{
+    margin: 20px;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+

@@ -50,4 +50,17 @@ h2{
 .img{
     text-align: center;
 }
-
+main{
+    overflow: hidden;
+}
+#proyectos{
+    border-top: solid 5px #0af;
+}
+.proyecto{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.proyecto img{
+    width: 100%;
+}
